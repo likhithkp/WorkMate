@@ -1,7 +1,7 @@
 
-# Microservices Architecture for Task Management App
+# WorkMate Microservices Architecture
 
-This repository contains the microservices architecture for a **Task Management System**. The system is designed to be modular, scalable, and easy to maintain. Each service is self-contained and responsible for a specific business function. This architecture ensures flexibility, fault tolerance, and ease of development.
+This repository contains the microservices architecture for a **WorkMate**. The system is designed to be modular, scalable, and easy to maintain. Each service is self-contained and responsible for a specific business function. This architecture ensures flexibility, fault tolerance, and ease of development.
 
 ---
 
