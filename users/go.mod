@@ -1,3 +1,3 @@
-module github.com/likhithkp/social-media-backend/users
+module github.com/likhithkp/WorkMate/users
 
 go 1.22.2

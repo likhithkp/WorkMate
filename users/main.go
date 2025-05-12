@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/likhithkp/social-media-backend/users/routes"
+	"github.com/likhithkp/WorkMate/users/routes"
 )
 
 func main() {
