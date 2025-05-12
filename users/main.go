@@ -10,5 +10,5 @@ func main() {
 	mux := http.NewServeMux()
 
 	routes.UserRouter(mux)
-	http.ListenAndServe(":3000", mux)
+	// http.ListenAndServe(":3000", mux)
 }
