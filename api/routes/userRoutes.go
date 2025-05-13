@@ -3,7 +3,7 @@ package routes
 import (
 	"net/http"
 
-	"github.com/likhithkp/social-media-backend/users/handlers"
+	"github.com/likhithkp/WorkMate/api/handlers"
 )
 
 func UserRouter(mux *http.ServeMux) {
